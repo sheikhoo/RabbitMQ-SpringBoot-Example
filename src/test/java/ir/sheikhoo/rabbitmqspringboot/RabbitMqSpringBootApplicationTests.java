@@ -1,4 +1,4 @@
-package ir.sheikhoo.RabbitMQSpringBoot;
+package ir.sheikhoo.rabbitmqspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
