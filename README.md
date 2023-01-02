@@ -1,7 +1,14 @@
 # RabbitMQ-SpringBoot-Example
 Example RabbitMQ SpringBoot
 
-## Run Rabbitmq on Docker
+## Start the Application with the help of Docker
+Go to the project directory and execute the following command in the terminal
+
+`docker-compose up`
+
+And we are done, the SpringBoot App will be starting on port 8080 and RabbitMQ is on 5672 and RabbitMQ Management on 15672
+
+## For just run Rabbitmq on Docker
   
   `docker run -d --name my-rabbit -p 4369:4369 -p 5671:5671 -p 5672:5672 -p 15672:15672 rabbitmq:3.9-management`
  
