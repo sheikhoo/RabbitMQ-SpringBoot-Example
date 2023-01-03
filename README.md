@@ -1,6 +1,7 @@
 # RabbitMQ-SpringBoot-Example
 Example RabbitMQ SpringBoot
 
+[مشاهده آموزش و توضیحات در ویرگول](https://virgool.io/@m.s.sheikhzahedi/rabbitmq-%DA%86%DB%8C%D8%B3%D8%AA-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-rabbitmq-%D8%AF%D8%B1-spring-boot-oeba0v1jpkry)
 ## Start the Application with the help of Docker
 Go to the project directory and execute the following command in the terminal
 
