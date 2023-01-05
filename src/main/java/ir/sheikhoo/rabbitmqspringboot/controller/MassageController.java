@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 @Controller
 @RequestMapping("/")
-public class LogsController {
+public class MassageController {
 
     @Autowired
     private QueueProducer queueProducer;

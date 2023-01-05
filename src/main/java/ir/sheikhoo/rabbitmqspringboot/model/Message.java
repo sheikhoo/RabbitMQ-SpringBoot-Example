@@ -6,6 +6,15 @@ public class Message {
     private String text;
     private String sender;
 
+    public Message() {
+    }
+
+    public Message(String title, String text, String sender) {
+        this.title = title;
+        this.text = text;
+        this.sender = sender;
+    }
+
     public String getTitle() {
         return title;
     }
